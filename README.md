@@ -75,3 +75,5 @@ See [LICENSE.md](./LICENSE.md), except `spacetime.json`, `spacetime.local.json`,
 - https://spacetimedb.com/docs/tutorials/chat-app
 - https://spacetimedb.com/docs/databases/cheat-sheet#common-cli-commands
 - https://nixos.org/manual/nixpkgs/stable/#compiling-rust-applications-with-cargo
+- https://spacetimedb.com/docs/quickstarts/browser
+- https://github.com/phaserjs/template-react-ts
